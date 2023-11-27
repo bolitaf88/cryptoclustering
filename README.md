@@ -22,8 +22,7 @@ elbow_df1.hvplot.line(x='k', y='inertia', xticks=k, title='Elbow Curve 1: KMeans
 - **Elbow Curve 2 (PCA):** Illustrates a similar curve for PCA, displaying variance explained by different numbers of principal components.
 ##### Elbow curve 1 and 2 illustration below
 [elbowcurves](https://github.com/bolitaf88/cryptoclustering/blob/main/images/elbow.png)
-[elobow1](https://github.com/bolitaf88/cryptoclustering/blob/main/images/Screenshot%202023-11-27%20060215.png)
-[elbow2](https://github.com/bolitaf88/cryptoclustering/blob/main/images/Screenshot%202023-11-27%20060445.png)
+
 ### Contrasting Clusters
 
 #### Scatter Plots
