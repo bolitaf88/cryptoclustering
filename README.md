@@ -20,7 +20,8 @@ elbow_df1.hvplot.line(x='k', y='inertia', xticks=k, title='Elbow Curve 1: KMeans
 
 - **Elbow Curve 1 (KMeans):** Demonstrates the inertia (within-cluster sum of squares) for different values of 'k' (number of clusters) in KMeans clustering.
 - **Elbow Curve 2 (PCA):** Illustrates a similar curve for PCA, displaying variance explained by different numbers of principal components.
-
+##### Elbow curve 1 and 2 illustration below
+[elbowcurves](https://github.com/bolitaf88/cryptoclustering/blob/main/images/elbow.png)
 ### Contrasting Clusters
 
 #### Scatter Plots
@@ -31,7 +32,8 @@ scaled_df_predictions.hvplot.scatter(x='price_change_percentage_24h', y='price_c
 
 - **KMeans Scatter Plot:** Visualizes cryptocurrency clusters based on their 24-hour and 7-day price change percentages, highlighting different clusters identified by the 'k_predictions' label.
 - **PCA Scatter Plot:** Depicts clusters generated through PCA transformation (PCA1 and PCA2), showcasing potential groupings based on principal components.
-
+##### scatter plots illustration below
+[scatterplots](https://github.com/bolitaf88/cryptoclustering/blob/main/images/scatter.png)
 ### Conclusion
 
 Cryptocurrency clustering, as demonstrated through these visualizations and techniques, offers a structured approach to understanding the crypto market's complexity. Elbow curves provide insights into the optimal number of clusters, while scatter plots reveal how cryptocurrencies are grouped based on different attributes or transformations.
