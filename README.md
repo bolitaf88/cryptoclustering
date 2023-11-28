@@ -1,5 +1,3 @@
-# cryptoclustering
-
 
 
 ## Cryptocurrency Clustering
@@ -38,3 +36,9 @@ Cryptocurrency clustering, as demonstrated through these visualizations and tech
 
 Through clustering, investors, analysts, and enthusiasts can gain a clearer perspective on crypto behaviors, potential correlations, and distinct market segments, aiding in strategic decision-making within this rapidly evolving landscape.
 
+### References
+
+- **Stackoverflow** 
+- **Google search engine**
+- **Justin Bisal** - TA
+- **James Newman** - TA
